@@ -1,5 +1,5 @@
 set es_enableCustomData 1 
-set mysql_connection_string "server=mysql-mariadb14-104.zap-hosting.com;database=zap474119-2;userid=zap474119-2;password=1T2lQI6LTahS4RHS" 
+set mysql_connection_string "server=mysql-mariadb14-104.zap-hosting.com;database=zap474119-2;userid=z;password=" 
 endpoint_add_tcp "134.255.252.43:30100" 
 endpoint_add_udp "134.255.252.43:30100" 
 sv_maxclients 32
